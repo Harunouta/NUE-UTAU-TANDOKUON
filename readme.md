@@ -6,7 +6,8 @@ UTAU:自動インストールには対応しておりません。お手数です
 UTAU-Synth:nue-utau-単独音ディレクトリをドラッグ&ドロップ<br>
 
 [デモ:Demo]<br>
-ニコニコ、ようつべ<br>
+<a href= "https://nico.ms/sm40204180" >ニコニコ</a><br>
+<a href= "https://youtu.be/2C1u4pEsMBY" >ようつべ</a><br>
 
 [連絡先:contact]<br>
 掙の琴(twitter:@shounokoto,@Harunouta_sh)<br>
